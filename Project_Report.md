@@ -3,10 +3,10 @@
 **Project Title:** Campus-to-City Ride Pooler  
 **Student Name:** Nilesh  
 **Registration Number:** 25BCE10316  
-**Program:** B.Tech — Computer Science Engineering (1st Year)  
+**Program:** B.Tech — Computer Science Engineering   
 **Institution:** VIT Bhopal University, Kothri Kalan, Madhya Pradesh  
 **Capstone:** Bring Your Own Project (BYOP)  
-**Date:** June 2025
+**Date:** 2026
 
 ---
 
